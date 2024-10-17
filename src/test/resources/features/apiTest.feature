@@ -5,3 +5,4 @@ Feature: API Test
     Given el endpoint está disponible
     When hago una petición GET
     Then el código de respuesta debe ser 300
+Then el código de respuesta debe ser 200
