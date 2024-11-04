@@ -157,6 +157,39 @@ Ejemplo de ejecución de prueba:
 ```
 npm run peakLoad
 ```
+Puedes modificar los parametros MIN_RESPONSE_TIME y MAX_RESPONSE_TIME, desde **package.json** , o bien puedes ejecutar los siguientes comandos : 
+
+Abre una terminal desde la raiz:
+
+- **peakLoad**:
+
+```
+k6 run -e TEST=peakLoad -e MIN_RESPONSE_TIME=1000 -e MAX_RESPONSE_TIME=4000 scenarios/backend/demok6.js
+```
+
+- **stress**:
+
+```
+k6 run -e TEST=stress -e MIN_RESPONSE_TIME=1000 -e MAX_RESPONSE_TIME=4000 scenarios/backend/demok6.js
+```
+- **spike**:
+
+```
+k6 run -e TEST=spike -e MIN_RESPONSE_TIME=1000 -e MAX_RESPONSE_TIME=4000 scenarios/backend/demok6.js
+```
+- **soak**:
+
+```
+k6 run -e TEST=soak -e MIN_RESPONSE_TIME=1000 -e MAX_RESPONSE_TIME=4000 scenarios/backend/demok6.js
+```
+- **demoFront**:
+
+```
+k6 run --env TEST=spike --env K6_BROWSER_TYPE=chromium --env K6_BROWSER_HEADLESS=false scenarios/demoFront/demoFrontk6.js
+```
+
+
+
 
 ## Contacto y Colaboración
 
