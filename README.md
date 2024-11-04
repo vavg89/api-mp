@@ -23,7 +23,7 @@
 <body>
   <div class="logo-container">
     <img src="docs/logo_crowdar.png" alt="Crowdar Logo" class="logo" />
-    <img src="docs/logo_lippia.png" alt="Lippia Logo" class="logo" style="width: 400px;" />
+    <img src="docs/logo_lippia.png" alt="Lippia Logo" class="logo" style="width: 350px;" />
   </div>
 
   <h1>Test Manager Performance - Proyecto K6</h1>
