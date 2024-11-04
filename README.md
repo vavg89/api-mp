@@ -1,6 +1,6 @@
 # Test Manager Performance - Proyecto K6
 
-![Crowdar Logo](docs/logo_crowdar.png) ![Lippia Logo](docs/logo_lippia.png)
+<img src="docs/logo_crowdar.png" alt="Crowdar Logo" width="150" /> <img src="docs/logo_lippia.png" alt="Lippia Logo" width="350" style="float: right;" />
 
 ## Estructura del Proyecto
 
@@ -65,8 +65,6 @@ npm run peakLoad
 ## Contacto y Colaboración
 
 Para contribuir al proyecto o reportar problemas, por favor contacta al equipo de **Crowdar** o **Lippia** utilizando los canales oficiales.
-
-
 
 
 
