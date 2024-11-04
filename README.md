@@ -2,7 +2,7 @@
 
 # Test Manager Performance - Proyecto K6
 
-## Estructura del Proyecto
+## Estructura del Proyecto:
 
 La estructura del proyecto ha sido reorganizada de la siguiente manera:
 
