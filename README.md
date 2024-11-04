@@ -1,6 +1,6 @@
 # Test Manager Performance - Proyecto K6
 
-<img src="docs/logo_crowdar.png" alt="Crowdar Logo" width="150" style="margin-right: 20px;" /> <img src="docs/logo_lippia.png" alt="Lippia Logo" width="250" style="float: right; margin-left: 20px;" />
+<img src="docs/logo_crowdar.png" alt="Crowdar Logo" width="350" style="margin-right: 20px;" /> <img src="docs/logo_lippia.png" alt="Lippia Logo" width="250" style="float: right; margin-left: 20px;" />
 
 ## Estructura del Proyecto
 
