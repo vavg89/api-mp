@@ -12,8 +12,8 @@
     }
     .logo-container {
       display: flex;
+      justify-content: space-between;
       align-items: center;
-      gap: 20px;
     }
     .logo {
       width: 150px;
@@ -22,8 +22,8 @@
 </head>
 <body>
   <div class="logo-container">
-    <img src="docs/logo_crowdar.png" alt="Crowdar Logo" class="logo" />
-    <img src="docs/logo_lippia.png" alt="Lippia Logo" class="logo" style="width: 350px;" />
+    <img src="docs/logo_crowdar.png" alt="Crowdar Logo" class="logo" style="align-self: flex-start;" />
+    <img src="docs/logo_lippia.png" alt="Lippia Logo" class="logo" style="align-self: flex-end;" />
   </div>
 
   <h1>Test Manager Performance - Proyecto K6</h1>
@@ -89,8 +89,6 @@
   <p>Para contribuir al proyecto o reportar problemas, por favor contacta al equipo de <strong>Crowdar</strong> o <strong>Lippia</strong> utilizando los canales oficiales.</p>
 </body>
 </html>
-
-
 
 
 
