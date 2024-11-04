@@ -16,8 +16,8 @@
   </style>
 </head>
 <body>
-  <img src="logo_crowdar.png" alt="Crowdar Logo" class="logo" />
-  <img src="logo_lippia.png" alt="Lippia Logo" class="logo" />
+  <img src="docs/logo_crowdar.png" alt="Crowdar Logo" class="logo" />
+  <img src="docs/logo_lippia.png" alt="Lippia Logo" class="logo" />
 
   <h1>Test Manager Performance - Proyecto K6</h1>
   
@@ -60,7 +60,7 @@
     <li><strong>reports/</strong>: Carpeta para almacenar los reportes generados, tanto en HTML como en resúmenes de texto.</li>
     <li><strong>utils/</strong>: Utilidades generales del proyecto, como `testsCache`.</li>
     <li><strong>ci/</strong>: Archivos de configuración para integración continua con GitLab CI/CD.</li>
-    <li><strong>docs/</strong>: Documentación del proyecto, incluyendo este README.</li>
+    <li><strong>docs/</strong>: Documentación del proyecto, incluyendo este README y los logos.</li>
   </ul>
 
   <h2>Instrucciones de Ejecución</h2>
@@ -82,4 +82,6 @@
   <p>Para contribuir al proyecto o reportar problemas, por favor contacta al equipo de <strong>Crowdar</strong> o <strong>Lippia</strong> utilizando los canales oficiales.</p>
 </body>
 </html>
+
+
 
